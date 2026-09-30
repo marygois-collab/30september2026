@@ -1,0 +1,17 @@
+site: G1
+fonte: "glbOpenSans","Open Sans",Arial,Inter,-apple-system,"system-ui",Roboto,"Helvetica Neue",Helvetica,Noto,Ubuntu,"Segoe UI",sans-serif
+tamanho: 1rem
+cor: #171717
+SW registered:  debate-para-senador-…bertura-ao-vivo:188 [show-template-cobertura js-top 1]: erro em `delete window.SETTINGS.BASTIAN.PUSHSTREAM_HOST` TypeError: Cannot convert undefined or null to object at debate-para-senador-…tura-ao-vivo:186:28
+
+Ordem	   Elemento	       Tamanho	        Cor	              Peso
+1	Título principal    Grande (ex: 3rem) 0	currentColor Branco	Alto
+2	Subtítulo	    Médio (ex: 1.5rem)  currentColor Branco  	Médio
+3	Botão de ação	    align-items: center;
+        		    font-size: 15px;
+        		    letter-spacing: -.3px;
+       			    line-height: 22px;
+        		    margin-left: 0	vermelho e branco  	Alto
+4	Texto descritivo    Normal (1rem)	Cinza escuro	  	Baixo
+5	Rodapé	            Pequeno (0.875rem)	Cinza claro	  	Muito baixo
+font-size: 0;

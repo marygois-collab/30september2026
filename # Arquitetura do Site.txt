@@ -1,0 +1,50 @@
+# Arquitetura do Site - [Transporte de pets]
+
+## Mapa do site
+[<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+  <url>
+    <loc>https://seusite.com</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://seusite.comcontato</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>]
+
+## Wireframe Home
+[1. Bloco de Configuração do Pet (Pet Selector)
+• Objetivo: Permitir que o tutor selecione qual animal vai viajar, garantindo o transporte adequado (porte, caixa de transporte ou cinto).
+• Conteúdo: Lista horizontal de avatares com fotos/nomes dos pets já cadastrados pelo usuário e um botão "+" para adicionar um novo pet.
+• Comportamento: Ao tocar no pet, ele fica em estado "selecionado" (com uma borda de destaque). O sistema ajusta automaticamente o tipo de veículo necessário com base nas restrições de porte cadastradas daquele animal.
+2. Bloco de Destino e Rota (Location Picker)
+• Objetivo: Definir o ponto de partida e o destino do transporte.
+• Conteúdo: Dois campos de entrada de texto ("De onde vamos sair?" e "Para onde vamos?"). Abaixo, uma lista de atalhos rápidos com ícones para destinos frequentes (ex: "Veterinário", "Petshop", "Casa").
+• Comportamento: Ao clicar em um campo, abre a busca de endereços com preenchimento automático. Se o tutor escolher um pet de grande porte que exige caixa específica, o app pode exibir um aviso caso o destino não tenha acessibilidade para desembarque pesado.
+3. Bloco de Preferências de Segurança (Safety Options)
+• Objetivo: Dar ao tutor o controle sobre as condições em que o pet vai viajar, gerando o gatilho de confiança.
+• Conteúdo: Três opções de marcação (checkboxes ou switches): "Tutor vai junto na viagem", "Pet viaja sozinho (necessita acompanhamento do motorista até a entrega)", e "Necessário caixa de transporte do veículo".
+• Comportamento: Ativar "Pet viaja sozinho" dispara um fluxo secundário que exigirá o nome e telefone da pessoa que vai receber o animal no destino.
+4. Bloco de Resumo do Motorista Selecionado (Driver Match / Confirmação)
+• Objetivo: Mostrar quem é o motorista parceiro focado em bem-estar animal, reduzindo a ansiedade do tutor.
+• Conteúdo: Foto do motorista, nome, nota (avaliação em estrelas), modelo/placa do carro e um selo de verificação (ex: "Certificado em Primeiros Socorros para Pets").
+• Comportamento: Um clique na foto abre o perfil completo do motorista. Um botão flutuante de "Mensagem" abre o chat direto para combinar detalhes (como comportamento do animal).
+]
+
+## Páginas
+| Página | URL | Objetivo | Conteúdo principal |
+| --- | --- | --- | --- |
+| ... | ... | ... | ... |
+
+## Navegação
+- Menu principal: [links]
+- Rodapé: [informações]
+- CTA principal: [ação]
+
+## Fluxo principal
+Home → ... → [ação principal]

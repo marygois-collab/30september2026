@@ -1,0 +1,40 @@
+<header>
+  <h1>Levapet</h1>
+  <p>Seu pet transportado com carinho e segurança</p>
+</header>
+
+<a href="https://wa.me/5511999999999" class="botao-cta">
+  Agende pelo WhatsApp
+</a>
+
+<section id="horários">
+  <h2>Bolos</h2>
+  <article class="horário">
+    <img src="oleksandr-horbach-D8g-YkLFQIs-unsplash.jpg" alt="Transporte para cachorro">
+    <div class="info">
+      <h3>Calcular distância</h3>
+      <p></p>
+      <span class="preco"></span>
+    </div>
+  </article>
+</section>
+
+<section id="depoimentos">
+  <h2>O que nossos clientes dizem</h2>
+  <blockquote>
+    <p>"Super rápido, chegou no horário combinado!"</p>
+    <cite>- Fernanda S.</cite>
+  </blockquote>
+</section>
+<nav>
+  <a href="#horários">Horários</a>
+  <a href="#locais">Locais</a>
+  <a href="#carros">Carros</a>
+  <a href="#contato">Contato</a>
+</nav>
+<footer>
+  <p><strong>Levapet</strong></p>
+  <p>WhatsApp: (11) 99999-9999</p>
+  <p>Rua da Liberdade, 123 - São Paulo</p>
+  <p>24h</p>
+</footer>

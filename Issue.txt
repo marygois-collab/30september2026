@@ -1,0 +1,14 @@
+## Título
+Adicionar formulário de contato à página Contato
+
+## Contexto
+Algumas pessoas preferem descrever a encomenda por escrito.
+O formulário complementa o botão de WhatsApp do cliente.
+
+## Pronto quando
+- O formulário pede nome, contato e mensagem.
+- Os campos têm nomes visíveis e instruções claras.
+- O visual usa os tokens do projeto.
+- Uma mensagem de teste chega ao destino escolhido.
+- A pessoa vê se o envio deu certo ou se precisa tentar de novo.
+- O formulário pode ser preenchido no celular.
