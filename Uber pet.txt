@@ -1,0 +1,24 @@
+Uber para animais
+1	Pra quem é?	 
+Pessoas que têm animais domésticos, inclusive aves.
+2	Qual o objetivo?	
+Transportar os animais em segurança.
+3	O que diferencia?	
+A rapidez e a confiança. O carro já seria preparado com uma capa para evitar sujeira, desobrigando o tutor dessa parte. E pode levar o pet com ou sem o dono.
+4	O que o visitante deve fazer?
+Buscar um motorista perto da sua região que esteja disponível.	
+5	Qual o conteúdo essencial?	
+Pesquisa por região, horário, e que animal deseja transportar.
+6	Tem referências?	
+O Uber pet, que é mais conhecido por recusar as corridas e não oferece atendimento satisfatório.
+7	Qual o prazo?
+A pessoa pode chamar na hora ou agendar a corrida.	
+8	Tem restrições?	
+Seria um app simples, que não ocupe muita memória.
+9	Como vai ser atualizado?
+Com depoimentos e notas dos usuários.
+10	Sucesso é o quê?	
+As pessoas lembrarem primeiro desse site/app do q o Uber.
+
+
+
